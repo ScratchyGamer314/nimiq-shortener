@@ -1,0 +1,31 @@
+{
+  "name": "shortnim-server",
+  "version": "0.0.2",
+  "description": "Server",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Albermonte/nimiq-shortener.git"
+  },
+  "keywords": [
+    "short",
+    "nimiq"
+  ],
+  "author": "Alberto Monterroso",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Albermonte/nimiq-shortener/issues"
+  },
+  "homepage": "https://github.com/Albermonte/nimiq-shortener#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
