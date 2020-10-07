@@ -1,7 +1,6 @@
 # Simple NIMIQ URL Shortener
-[![time tracker](https://wakatime.com/badge/github/Albermonte/nimiq-shortener.svg)](https://wakatime.com/badge/github/Albermonte/nimiq-shortener)
 
-Ready to deploy to Now.sh
+Ready to deploy to Now.sh (vercel)
 
 Tools Used : 
 
